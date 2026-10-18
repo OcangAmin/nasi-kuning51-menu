@@ -1,6 +1,6 @@
 {
   "versi": 1,
-  "diperbarui": "2026-10-18T21:23:53.424Z",
+  "diperbarui": "2026-10-18T21:24:49.750Z",
   "menus": [
     {
       "name": "NASI KUNING AYAM",
@@ -75,7 +75,7 @@
     {
       "name": "AIR MINERAL",
       "short": "Air Mineral",
-      "price": 5500,
+      "price": 5000,
       "type": "additional",
       "dijual": true
     }
