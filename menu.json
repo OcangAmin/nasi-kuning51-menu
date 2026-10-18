@@ -1,0 +1,83 @@
+{
+  "versi": 1,
+  "diperbarui": "2026-10-18T21:23:53.424Z",
+  "menus": [
+    {
+      "name": "NASI KUNING AYAM",
+      "short": "Ayam",
+      "price": 15000,
+      "type": "utama",
+      "dijual": true
+    },
+    {
+      "name": "NASI KUNING IKAN",
+      "short": "Ikan",
+      "price": 13000,
+      "type": "utama",
+      "dijual": true
+    },
+    {
+      "name": "NASI KUNING TELUR",
+      "short": "Telur",
+      "price": 10000,
+      "type": "utama",
+      "dijual": true
+    },
+    {
+      "name": "NASI KUNING AYAM TELUR",
+      "short": "Ayam + Telur",
+      "price": 23000,
+      "type": "utama",
+      "dijual": true
+    },
+    {
+      "name": "NASI KUNING IKAN TELUR",
+      "short": "Ikan + Telur",
+      "price": 20000,
+      "type": "utama",
+      "dijual": true
+    },
+    {
+      "name": "IKAN",
+      "short": "Ikan",
+      "price": 5000,
+      "type": "additional",
+      "dijual": true
+    },
+    {
+      "name": "BAKWAN",
+      "short": "Bakwan",
+      "price": 2000,
+      "type": "additional",
+      "dijual": true
+    },
+    {
+      "name": "NASI",
+      "short": "Nasi",
+      "price": 5000,
+      "type": "additional",
+      "dijual": true
+    },
+    {
+      "name": "TELUR",
+      "short": "Telur",
+      "price": 5000,
+      "type": "additional",
+      "dijual": true
+    },
+    {
+      "name": "AYAM",
+      "short": "Ayam",
+      "price": 5000,
+      "type": "additional",
+      "dijual": true
+    },
+    {
+      "name": "AIR MINERAL",
+      "short": "Air Mineral",
+      "price": 5500,
+      "type": "additional",
+      "dijual": true
+    }
+  ]
+}
