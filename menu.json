@@ -1,6 +1,6 @@
 {
   "versi": 1,
-  "diperbarui": "2026-10-18T21:24:49.750Z",
+  "diperbarui": "2026-10-23T16:27:22.281Z",
   "menus": [
     {
       "name": "NASI KUNING AYAM",
@@ -26,7 +26,7 @@
     {
       "name": "NASI KUNING AYAM TELUR",
       "short": "Ayam + Telur",
-      "price": 23000,
+      "price": 20000,
       "type": "utama",
       "dijual": true
     },
